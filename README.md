@@ -5,7 +5,7 @@ The goal of this collection is to have a baseline of sklearn machine learning al
 
 I can quickly fire up the notebooks when I need to refresh on a topic or extend a prototype for a given dataset if starting a new project. It lets me plug in other much larger datasets if required and they can be used as a starter template for other projects.
 
-The Jupter Notebook templates use a similar format in most cases: 
+The Jupter Notebook templates use a similar format: 
 - dataset source link
 - exploratory data analysis, basic summary statistics and visual plots for the dataset features, data transformations
 - training and testing dataset splitting (does not use the sklearn cross-validation score in these templates)
