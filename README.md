@@ -25,7 +25,7 @@ The ML algorithms in this collection cover:
 - k nearest neighbors (iris dataset)
 
 #### Note
-Any GitHub project where I reuse a public repository function is acknowledged in the cell in the Jupyter Notebook and again in the Web References section e.g. Gradio UI function for Iris dataset from the serverless-ml course I cloned from featurestore.org.
+Any GitHub project where I am following along a course is acknowledged in the cell in the Jupyter Notebook and again in the Web References section e.g. Gradio UI function for Iris dataset from the serverless-ml course I cloned from featurestore.org in week 1 of that course.
 
 I am also following along with an ebook from machinelearningmastery.com author, Jason Brownlee, as a refresher exercise for myself after a two-year career break from IT and reviewing my old masters in data analytics and machine learning course materials, hence the algorithms selected here. My course and his ebook focus on their sample datasets and emphasis is on the inner workings of the ML algorithm and understanding it through walking the equations. Here with the sklearn notebooks, I then use public datasets like Iris and diabetes to apply those offline exercises to an off-the-shelf library, so I understand what is happening under the hood.
 
