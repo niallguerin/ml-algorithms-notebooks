@@ -24,6 +24,7 @@ The ML algorithms in this collection cover:
 - Decision Tree (diabetes dataset)
 - k nearest neighbors (iris dataset)
 - learning vector quantization (iris dataset)
+- support vector machine (svm) (diabetes dataset)
 
 #### Note
 Any GitHub project where I am following along a course is acknowledged in the cell in the Jupyter Notebook and again in the Web References section e.g. Gradio UI function for Iris dataset from the serverless-ml course I cloned from featurestore.org in week 1 of that course. Some cells will re-use a function or class from basic usage template guides from the likes of sklvq, so again, the web link to direct code source is included in the cell and as a text link in the main notebook text body references.
