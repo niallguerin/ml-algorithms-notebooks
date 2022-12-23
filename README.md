@@ -3,7 +3,7 @@ This project contains a group of machine learning algorithm templates in Jupyter
 
 The goal of this collection is to have a baseline of sklearn machine learning algorithm notebook templates that follow a consistent workflow from dataset source to EDA, training and test data construction to model implementation, prediction testing, and performance evaluation of an ML model. Some of the ML algorithms use additional libraries not part of sklearn though they are designed to integrate with it e.g. [sklvq](https://sklvq.readthedocs.io/en/stable/).
 
-I can quickly fire up the notebooks when I need to refresh on a topic or extend a prototype for a given dataset if starting a new project. It lets me plug in other much larger datasets if required and they can be used as a starter template for other projects.
+I can quickly fire up the notebooks when I need to refresh on a topic or extend a prototype for a given dataset if starting a new project. It lets me plug in other much larger datasets if required and they can be used as a starter template for other projects, for example, integration testing with feature store platforms or PoCs.
 
 The Jupter Notebook templates use a similar format: 
 - dataset source link
